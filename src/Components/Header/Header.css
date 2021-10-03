@@ -1,0 +1,14 @@
+.logo{
+    text-decoration: none;
+    color: #000;
+    font-size: 1.25rem;
+}
+.nav-item{
+    text-decoration: none;
+    margin-left: 15px;
+    font-weight: 500;
+    color: #000;
+}
+.nav-item:hover{
+    color: #dd2c00;
+}
