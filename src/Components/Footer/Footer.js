@@ -19,7 +19,7 @@ const Footer = () => {
                             <small>PhotoWala is a well known Online Photograpic Institute. We try to give the best education and the actuall knownledge about photography! </small>
                         </div>
                         <Link to="/about">
-                            <Button>Read More</Button>
+                            <Button variant="outline-light">Read More</Button>
                         </Link>
                     </Col>
 
@@ -29,8 +29,8 @@ const Footer = () => {
                         <Nav className="d-block">
                             <NavLink className="footer-nav" to="/home">Home</NavLink>
                             <NavLink className="footer-nav" to="/gallery">Gallery</NavLink>
-                            <NavLink className="footer-nav" to="/about">About</NavLink>
-                            <NavLink className="footer-nav" to="/services">Services</NavLink>
+                            <NavLink className="footer-nav" to="/services">Courses</NavLink>
+                            <NavLink className="footer-nav" to="/about">About us</NavLink>
                         </Nav>
                     </Col>
 
@@ -50,7 +50,7 @@ const Footer = () => {
                         <Form>
                             <Form.Group className="mb-3" controlId="exampleForm.ControlInput1">
                                 <Form.Control type="email" placeholder="Enter your email" />
-                                <Button className="btn-outline-light bg-dark mt-3 w-100">SUBSCRIBE</Button>
+                                <Button variant="outline-light" className="mt-3 w-100">SUBSCRIBE</Button>
                             </Form.Group>
                         </Form>
                     </Col>
