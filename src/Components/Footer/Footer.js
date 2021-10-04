@@ -29,7 +29,7 @@ const Footer = () => {
                         <Nav className="d-block">
                             <NavLink className="footer-nav" to="/home">Home</NavLink>
                             <NavLink className="footer-nav" to="/gallery">Gallery</NavLink>
-                            <NavLink className="footer-nav" to="/services">Courses</NavLink>
+                            <NavLink className="footer-nav" to="/courses">Courses</NavLink>
                             <NavLink className="footer-nav" to="/about">About us</NavLink>
                         </Nav>
                     </Col>

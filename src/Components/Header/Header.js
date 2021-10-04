@@ -23,7 +23,7 @@ const Header = () => {
                         <Nav className="mx-auto">
                             <NavLink className="nav-item" activeStyle={{ color: "#dd2c00", borderBottom: "1px solid #dd2c00" }} to="/home">Home</NavLink>
                             <NavLink className="nav-item" activeStyle={{ color: "#dd2c00", borderBottom: "1px solid #dd2c00" }} to="/gallery">Gallery</NavLink>
-                            <NavLink className="nav-item" activeStyle={{ color: "#dd2c00", borderBottom: "1px solid #dd2c00" }} to="/services">Courses</NavLink>
+                            <NavLink className="nav-item" activeStyle={{ color: "#dd2c00", borderBottom: "1px solid #dd2c00" }} to="/courses">Courses</NavLink>
                             <NavLink className="nav-item" activeStyle={{ color: "#dd2c00", borderBottom: "1px solid #dd2c00" }} to="/about">About us</NavLink>
                         </Nav>
                     </Navbar.Collapse>
