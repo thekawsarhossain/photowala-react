@@ -1,7 +1,7 @@
 import React from 'react';
 import { Col, Container, Row, Button } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
-import bannerImg from '../../images/one.jpg';
+import bannerImg from '../../images/one .jpg';
 
 const Banner = () => {
     return (
