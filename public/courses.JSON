@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "img": "https://frui.co.uk/images/shop/sections/normal/frui-courses-photography-banner-basic-intro-digi-photography.jpg",
+        "name": "Basic Photography",
+        "price": 1200,
+        "rating": 4,
+        "enroll": 285
+    },
+    {
+        "id": 2,
+        "img": "https://c1.wallpaperflare.com/preview/745/155/664/tripad-camera-mobile-phone.jpg",
+        "name": "Mobile Photography",
+        "price": 1500,
+        "rating": 4.5,
+        "enroll": 480
+    },
+    {
+        "id": 3,
+        "img": "https://media.istockphoto.com/photos/cute-funny-beautiful-baby-in-a-pink-tshirt-photographs-her-bunny-the-picture-id1167264633?b=1&k=20&m=1167264633&s=170667a&w=0&h=5L5aE2pnym0ny6xIHGPCNoMnjhyjHcgnrRnVkqWYqds=",
+        "name": "Amateur Photography",
+        "price": 1800,
+        "rating": 4.2,
+        "enroll": 180
+    },
+    {
+        "id": 4,
+        "img": "https://www.moneycrashers.com/wp-content/uploads/2021/06/wedding-photographer-married-couple-kissing.jpg",
+        "name": "Wedding Photography",
+        "price": 5000,
+        "rating": 4.8,
+        "enroll": 780
+    },
+    {
+        "id": 5,
+        "img": "https://images.immediate.co.uk/production/volatile/sites/25/2021/03/astrophotography-beginner-guide-8724622.jpg?quality=90&resize=620%2C413",
+        "name": "Astro Photography",
+        "price": 4000,
+        "rating": 4.4,
+        "enroll": 120
+    },
+    {
+        "id": 6,
+        "img": "https://www.topteny.com/wp-content/uploads/2015/09/macro-photography.jpg",
+        "name": "Macro Photography",
+        "price": 2800,
+        "rating": 4.5,
+        "enroll": 210
+    },
+    {
+        "id": 7,
+        "img": "https://streetphotographycolor.com/wp-content/uploads/2021/01/How-to-Become-a-Professional-Street-Photographer-3-1024x693-1.jpg",
+        "name": "Street Photography",
+        "price": 5500,
+        "rating": 4.9,
+        "enroll": 460
+    },
+    {
+        "id": 8,
+        "img": "https://dvyvvujm9h0uq.cloudfront.net/com/articles/1568199916-product-photo1.jpg",
+        "name": "Product Photography",
+        "price": 10000,
+        "rating": 5,
+        "enroll": 1020
+    }
+]

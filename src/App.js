@@ -5,8 +5,8 @@ import Header from './Components/Header/Header';
 import Footer from './Components/Footer/Footer';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import Home from './Components/Home/Home';
-import Courses from './Components/Courses/Courses';
 import About from './Components/About/About';
+import AllCourses from './Components/AllCourses/AllCourses';
 
 function App() {
   return (
@@ -21,7 +21,7 @@ function App() {
             <Home></Home>
           </Route>
           <Route path="/courses">
-            <Courses></Courses>
+            <AllCourses></AllCourses>
           </Route>
           <Route path="/about">
             <About></About>
