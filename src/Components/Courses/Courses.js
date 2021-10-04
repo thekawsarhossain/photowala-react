@@ -20,7 +20,7 @@ const Courses = () => {
                     }
                 </Row>
                 <Link to="/courses">
-                    <Button className="mt-4" variant="outline-dark">all courses</Button>
+                    <Button className="my-4" variant="outline-dark">all courses</Button>
                 </Link>
             </Container>
         </div>
